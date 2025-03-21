@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"go.livesession.io/hello-govarnityurl/lib"
+	"go.livesession.io/hello-govanityurl/lib"
 )
 
 func main() {
